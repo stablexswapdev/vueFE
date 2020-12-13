@@ -75,18 +75,18 @@ let wallets = [
   //   appUrl: "https://stablexswap.com",
   //   email: "info@stablexswap.com",
   //   rpcUrl:
-  //     "https://mainnet.infura.io/v3/c334bb4b45a444979057f0fb8a0c9d1b"
+  //     "https://data-seed-prebsc-1-s2.binance.org:8545"
   // },
   // {
   //   walletName: "ledger",
   //   rpcUrl:
-  //     "https://mainnet.infura.io/v3/c334bb4b45a444979057f0fb8a0c9d1b",
+  //     "https://data-seed-prebsc-1-s2.binance.org:8545",
   //   //LedgerTransport: TransportWebUSB,
   // },
   // {
   //   walletName: "lattice",
   //   appName: "Curve Finance",
-  //   rpcUrl: "https://mainnet.infura.io/v3/c334bb4b45a444979057f0fb8a0c9d1b"
+  //   rpcUrl: "https://data-seed-prebsc-1-s2.binance.org:8545"
   // },
   // { walletName: "dapper" },
   // { walletName: "coinbase" },
@@ -95,7 +95,7 @@ let wallets = [
   // { walletName: "authereum", apiKey: "_BTsipRcEmPeuVteLOGdoh1CXt733YLZ7u3ipbe_dAk" },
   { 
     walletName: "trust",
-    rpcUrl: "https://mainnet.infura.io/v3/c334bb4b45a444979057f0fb8a0c9d1b",
+    rpcUrl: "https://data-seed-prebsc-1-s2.binance.org:8545",
   },
   {
     walletName: "walletConnect",
@@ -106,7 +106,7 @@ let wallets = [
   //   appName: 'Curve Finance',
   //   appLogoUrl: 'https://www.stablexswap.com/logo.png',
   //   rpcUrl:
-  //     "https://mainnet.infura.io/v3/c334bb4b45a444979057f0fb8a0c9d1b",
+  //     "https://data-seed-prebsc-1-s2.binance.org:8545",
   // },
   // {
   //   walletName: "portis",
@@ -117,7 +117,7 @@ let wallets = [
   // { walletName: "opera" },
   // { walletName: "operaTouch" },
   // { walletName: "unilogin" },
-  // { walletName: "imToken", rpcUrl: "https://mainnet.infura.io/v3/c334bb4b45a444979057f0fb8a0c9d1b" },
+  // { walletName: "imToken", rpcUrl: "https://data-seed-prebsc-1-s2.binance.org:8545" },
   // { walletName: "meetone" },
 ]
 

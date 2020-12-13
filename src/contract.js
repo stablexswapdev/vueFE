@@ -20,7 +20,7 @@ export const PRECISION = 1e18;
 
 // TO check what migration is
 var migration_address = '0x54Ee22d5593FC76fB20EafAb66C45aAb3268B800';
-export const infura_url = 'https://mainnet.infura.io/v3/c334bb4b45a444979057f0fb8a0c9d1b';
+export const infura_url = 'https://data-seed-prebsc-1-s2.binance.org:8545';
 
 const currencies = {
 	compound: {
